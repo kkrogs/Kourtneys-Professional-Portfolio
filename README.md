@@ -18,8 +18,15 @@ Placeholder image:
 In the CONTACT section, you are brought to clickable links as well as my phone number in order to contact me.
 ![image](https://user-images.githubusercontent.com/95041311/147892969-d9095148-7bad-4e0b-84a0-1fa458edbc7e.png)
 
-In the coding section, you will also find descriptions of what each element does on the page.
+In the coding in both html and css, you will also find descriptions of what each element does on the page.
+
+![image](https://user-images.githubusercontent.com/95041311/147893064-8959bf97-a2ab-4bd9-9957-64ff5e5a6845.png)
+
+
 When adjusting the page size, you will also find that the images move around and fit according to each mobile phone or tablet size.
+
+![image](https://user-images.githubusercontent.com/95041311/147893073-dbb2ae21-3bf0-468e-9465-70873fb338d6.png)
+
 
 Thank you for reading and enjoy my portfolio page!
 
